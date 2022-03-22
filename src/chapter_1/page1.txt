@@ -1,3 +1,3 @@
-James Bond is always with us
-java is cool
-This is the start of my book
+James Bond is always with us.
+java is cool.
+This is the start of my book.
